@@ -1,6 +1,6 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mlund/template-for-supporting-information/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mlund/SI-crownether-ion-binding/HEAD)
 
-# template-for-supporting-information
+# Supporting information for ...
 
 Template for Notebooks for Supporting Information and Zenodo Deposition.
 
