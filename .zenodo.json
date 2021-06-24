@@ -1,0 +1,40 @@
+{
+    "title": "Electronic Notebook: Some title...",
+    "description": "This repository contains electronic notebooks (Jupyter) for reproducing the simulation results presented in ...",
+    "creators": [
+        {
+            "name": "Mikael Lund",
+            "affiliation": "Division of Theoretical Chemistry, Department of Chemistry, Lund University, Sweden",
+            "orcid": "0000-0001-8178-8175"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Alfons Åberg",
+            "orcid": "0000-0000-0000-0000",
+            "type": "Researcher",
+            "affiliation": "Department of ..."
+        }
+    ],
+    "keywords": [
+        "reproducible science",
+        "electronic notebooks"
+    ],
+    "related_identifiers": [
+        {
+            "scheme": "url",
+            "identifier": "https://github.com/mlund/template-for-supporting-information",
+            "relation": "isSupplementTo"
+        },
+        {
+            "scheme": "doi",
+            "identifier": "10.1021/jacs.1c01925",
+            "relation": "isSupplementTo"
+        }
+    ],
+    "license": {
+        "id": "CC0-1.0"
+    },
+    "access_right": "open",
+    "upload_type": "software"
+}
