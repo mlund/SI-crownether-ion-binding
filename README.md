@@ -1,12 +1,11 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mlund/SI-crownether-ion-binding/HEAD)
 
-# Supporting information for ...
+# Electronic Notebook: Counter Intuitive Electrostatics upon Metal IonCoordination to a Receptor with Two HomotopicBinding Sites
 
-Template for Notebooks for Supporting Information and Zenodo Deposition.
 
 ## Layout
 
-Description of the directory layout.
+- `molecular_dynamics/`
 
 - `.zenodo.json` This contains metedata for the Zenodo deposition. When you on github make a new
   _Release_, this can trigger a Zenodo build. To learn more about the available datafields, see
@@ -24,6 +23,6 @@ and make sure all required packages are loaded by issuing the following terminal
 
 ``` bash
     conda env create -f environment.yml
-    source activate my_environment
+    source activate crownether
     jupyter-notebook
 ```
