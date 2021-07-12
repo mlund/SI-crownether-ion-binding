@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mlund/SI-crownether-ion-binding/HEAD)
 
-# Electronic Notebook: Counter Intuitive Electrostatics upon Metal IonCoordination to a Receptor with Two HomotopicBinding Sites
+# Electronic Notebook: Counter Intuitive Electrostatics upon Metal Ion Coordination to a Receptor with Two Homotopic Binding Sites
 
 
 ## Layout
