@@ -5,8 +5,6 @@
 
 ## Layout
 
-- `molecular_dynamics/`
-
 - `.zenodo.json` This contains metedata for the Zenodo deposition. When you on github make a new
   _Release_, this can trigger a Zenodo build. To learn more about the available datafields, see
   [here](https://developers.zenodo.org/?python#depositions).
