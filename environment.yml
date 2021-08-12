@@ -1,6 +1,8 @@
-name: crownether
+name: bcetb
 channels:
     - defaults
+    - ambermd
+    - conda-forge
 dependencies:
     - python=3
     - pandas=1
@@ -9,3 +11,6 @@ dependencies:
     - numpy=1
     - jupyter
     - notebook
+    - pytraj=2.0.4
+    - mdtraj=1.9.3
+    - pyemma=2.5.7
