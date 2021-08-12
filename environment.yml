@@ -5,17 +5,18 @@ channels:
     - conda-forge
 dependencies:
     - python=3
-    - pandas=1
-    - scipy=1
-    - matplotlib=3
+    - pandas=0.23.1
+    - scipy=1.1.0
+    - matplotlib=2.2.2
     - jupyter
     - notebook
     - brewer2mpl=1.4
-    - uncertainties=3.1
+    - uncertainties=3.1.5
     - pytraj=2.0.4
     - mdtraj=1.9.3
     - pyemma=2.5.7
+    - openpyxl=3.0
     - pip
-    - numpy=1.19.2
+    - numpy=1.14.5
     - pip:
-      - pytc-fitter
+      - pytc-fitter=1.1.5
