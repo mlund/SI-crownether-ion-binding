@@ -18,5 +18,6 @@ dependencies:
     - openpyxl=3.0
     - pip
     - numpy=1.14 # 1.14.5
+    - scikit-learn
     - pip:
       - pytc-fitter==1.1.5
