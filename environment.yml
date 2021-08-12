@@ -19,4 +19,4 @@ dependencies:
     - pip
     - numpy=1.14 # 1.14.5
     - pip:
-      - pytc-fitter=1
+      - pytc-fitter==1.1.5
