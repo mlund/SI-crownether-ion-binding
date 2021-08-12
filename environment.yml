@@ -8,9 +8,14 @@ dependencies:
     - pandas=1
     - scipy=1
     - matplotlib=3
-    - numpy=1
     - jupyter
     - notebook
+    - brewer2mpl=1.4
+    - uncertainties=3.1
     - pytraj=2.0.4
     - mdtraj=1.9.3
     - pyemma=2.5.7
+    - pip
+    - numpy=1.19.2
+    - pip:
+      - pytc-fitter
