@@ -1,0 +1,49 @@
+# This file was created Tue Mar  9 11:06:21 2021
+# Created by:
+#                        :-) GROMACS - gmx bar, 2019 (-:
+# 
+# Executable:   /sw/easybuild/software/MPI/GCC-CUDA/7.3.0-2.30-9.2.88/OpenMPI/3.1.1/GROMACS/2019/bin/gmx
+# Data prefix:  /sw/easybuild/software/MPI/GCC-CUDA/7.3.0-2.30-9.2.88/OpenMPI/3.1.1/GROMACS/2019
+# Working dir:  /lunarc/nobackup/projects/snic2020-6-15/vidar/KCl/REMD/6Temperatures
+# Command line:
+#   gmx bar -f lambda_0/Production_MD/310K/dhdl.xvg lambda_10/Production_MD/310K/dhdl.xvg lambda_11/Production_MD/310K/dhdl.xvg lambda_12/Production_MD/310K/dhdl.xvg lambda_13/Production_MD/310K/dhdl.xvg lambda_14/Production_MD/310K/dhdl.xvg lambda_15/Production_MD/310K/dhdl.xvg lambda_16/Production_MD/310K/dhdl.xvg lambda_17/Production_MD/310K/dhdl.xvg lambda_18/Production_MD/310K/dhdl.xvg lambda_19/Production_MD/310K/dhdl.xvg lambda_1/Production_MD/310K/dhdl.xvg lambda_20/Production_MD/310K/dhdl.xvg lambda_21/Production_MD/310K/dhdl.xvg lambda_22/Production_MD/310K/dhdl.xvg lambda_23/Production_MD/310K/dhdl.xvg lambda_24/Production_MD/310K/dhdl.xvg lambda_25/Production_MD/310K/dhdl.xvg lambda_26/Production_MD/310K/dhdl.xvg lambda_27/Production_MD/310K/dhdl.xvg lambda_28/Production_MD/310K/dhdl.xvg lambda_29/Production_MD/310K/dhdl.xvg lambda_2/Production_MD/310K/dhdl.xvg lambda_30/Production_MD/310K/dhdl.xvg lambda_31/Production_MD/310K/dhdl.xvg lambda_32/Production_MD/310K/dhdl.xvg lambda_3/Production_MD/310K/dhdl.xvg lambda_4/Production_MD/310K/dhdl.xvg lambda_5/Production_MD/310K/dhdl.xvg lambda_6/Production_MD/310K/dhdl.xvg lambda_7/Production_MD/310K/dhdl.xvg lambda_8/Production_MD/310K/dhdl.xvg lambda_9/Production_MD/310K/dhdl.xvg -b 5000 -e 7500 -nbmin 1 -nbmax 1 -o dG_3_310K.xvg
+# gmx bar is part of G R O M A C S:
+#
+# Gromacs Runs On Most of All Computer Systems
+#
+@    title "Free energy differences"
+@    xaxis  label "\xl\f{}"
+@    yaxis  label "\xD\f{}G (kT)"
+@TYPE xydy
+ 0.500 -0.31   inf
+ 1.500 -1.83   inf
+ 2.500 -3.35  -nan
+ 3.500 -4.61  -nan
+ 4.500 -5.45   inf
+ 5.500 -8.02   inf
+ 6.500 -8.53   inf
+ 7.500 -8.85  -nan
+ 8.500 -9.02   inf
+ 9.500 -9.07   inf
+10.500 -8.98  -nan
+11.500 -8.76   inf
+12.500 -8.40  -nan
+13.500 -7.87   inf
+14.500 -7.16  -nan
+15.500 -6.23   inf
+16.500 -3.94  -nan
+17.500 -3.53   inf
+18.500 -2.32  -nan
+19.500 -2.10   inf
+20.500 -1.72   inf
+21.500 -3.20   inf
+22.500 -5.32  -nan
+23.500 -8.90   inf
+24.500 -6.51  -nan
+25.500 -7.02   inf
+26.500 -11.61   inf
+27.500 -13.17  -nan
+28.500 -15.17   inf
+29.500 -17.78   inf
+30.500 -22.06  -nan
+31.500 -18.62  -nan
