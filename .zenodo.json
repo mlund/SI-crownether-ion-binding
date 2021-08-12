@@ -1,19 +1,16 @@
 {
-    "title": "Electronic Notebook: Some title...",
-    "description": "This repository contains electronic notebooks (Jupyter) for reproducing the simulation results presented in ...",
+    "title": "Electronic Notebook: Counter Intuitive Electrostatics upon Metal Ion Coordination to a Receptor with Two Homotopic Binding Sites",
+    "description": "This repository contains electronic notebooks (Jupyter) for reproducing the simulation results in the work titled above",
     "creators": [
+        {
+            "name": "Vidar Aspelin",
+            "affiliation": "Division of Theoretical Chemistry, Department of Chemistry, Lund University, Sweden",
+            "orcid": "0000-0002-6888-1591"
+        },
         {
             "name": "Mikael Lund",
             "affiliation": "Division of Theoretical Chemistry, Department of Chemistry, Lund University, Sweden",
             "orcid": "0000-0001-8178-8175"
-        }
-    ],
-    "contributors": [
-        {
-            "name": "Alfons Åberg",
-            "orcid": "0000-0000-0000-0000",
-            "type": "Researcher",
-            "affiliation": "Department of ..."
         }
     ],
     "keywords": [
@@ -23,12 +20,12 @@
     "related_identifiers": [
         {
             "scheme": "url",
-            "identifier": "https://github.com/mlund/template-for-supporting-information",
+            "identifier": "https://github.com/mlund/SI-crownether-ion-binding",
             "relation": "isSupplementTo"
         },
         {
             "scheme": "doi",
-            "identifier": "10.1021/jacs.1c01925",
+            "identifier": "doi goes here",
             "relation": "isSupplementTo"
         }
     ],
