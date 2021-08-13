@@ -8,6 +8,30 @@
             "orcid": "0000-0002-6888-1591"
         },
         {
+            "name": "Carlos Solano Arribas",
+            "affiliation": "Center for Analysis and Synthesis (CAS), Department of Chemistry, Lund University"
+        },
+        {
+            "name": "Stefan Hervø-Hansen",
+            "affiliation": "Division of Theoretical Chemistry, Department of Chemistry, Lund University, Sweden",
+            "orcid": "0000-0002-9629-9195"
+        },
+        {
+            "name": "Björn Stenqvist",
+            "affiliation": "Division of Physical Chemistry, Department of Chemistry, Lund University, Sweden",
+            "orcid": "0000-0002-9099-0663"
+        },
+        {
+            "name": "Richard Chudoba",
+            "affiliation": "Division of Physical Chemistry, Department of Chemistry, Lund University, Sweden",
+            "orcid": "0000-0002-8064-0387"
+        },
+        {
+            "name": "Kenneth Wärnmark",
+            "affiliation": "Center for Analysis and Synthesis (CAS), Department of Chemistry, Lund University",
+            "orcid": "0000-0002-9022-3165"
+        },
+        {
             "name": "Mikael Lund",
             "affiliation": "Division of Theoretical Chemistry, Department of Chemistry, Lund University, Sweden",
             "orcid": "0000-0001-8178-8175"
@@ -15,7 +39,10 @@
     ],
     "keywords": [
         "reproducible science",
-        "electronic notebooks"
+        "electronic notebooks",
+        "theoretical chemistry",
+        "molecular dynamics simulation",
+        "ion binding thermodynamics"
     ],
     "related_identifiers": [
         {
