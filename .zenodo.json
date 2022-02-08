@@ -1,12 +1,17 @@
 {
-    "title": "Electronic Notebook: Counter Intuitive Electrostatics upon Metal Ion Coordination to a Receptor with Two Homotopic Binding Sites",
-    "description": "This repository contains electronic notebooks (Jupyter) for reproducing the simulation results in the work titled above",
+    "title": "Electronic Notebook: Counterintuitive Electrostatics upon Metal Ion Coordination to a Receptor with Two Homotopic Binding Sites",
+    "description": "This repository contains electronic notebooks (Jupyter) for reproducing the simulation results in the research work titled above",
     "creators": [
         {
             "name": "Vidar Aspelin",
             "affiliation": "Division of Theoretical Chemistry, Department of Chemistry, Lund University, Sweden",
             "orcid": "0000-0002-6888-1591"
         },
+        {
+            "name": "Anna Lidskog",
+            "affiliation": "Center for Analysis and Synthesis (CAS), Department of Chemistry, Lund University",
+            "orcid": "0000-0001-6731-7684"
+        },        
         {
             "name": "Carlos Solano Arribas",
             "affiliation": "Center for Analysis and Synthesis (CAS), Department of Chemistry, Lund University"
@@ -52,7 +57,7 @@
         },
         {
             "scheme": "doi",
-            "identifier": "doi goes here",
+            "identifier": "10.1021/jacs.1c08507",
             "relation": "isSupplementTo"
         }
     ],
