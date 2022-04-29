@@ -4,13 +4,21 @@ channels:
     - ambermd
     - conda-forge
 dependencies:
-    - python=3
-    - pandas=1
-    - scipy=1
-    - matplotlib=3
-    - numpy=1
+    - python=3.7
+    - pandas=0.23
+    - scipy=1.1
+    - matplotlib=2.2
+    - xlrd=1.2
     - jupyter
     - notebook
+    - brewer2mpl=1.4
+    - uncertainties=3.1
     - pytraj=2.0.4
     - mdtraj=1.9.3
     - pyemma=2.5.7
+    - openpyxl=3.0
+    - pip
+    - numpy=1.14
+    - scikit-learn
+    - pip:
+      - pytc-fitter==1.1.5
