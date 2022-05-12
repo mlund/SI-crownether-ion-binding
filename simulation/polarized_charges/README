@@ -1,0 +1,7 @@
+Here, the indices, atom types, and partial charges on BCETB according to the
+polarized DFT force field are given (the partial charges are the only
+parameters that differ from the OPLS-AA and DFT force fields, but the whole
+block of parameters is provided so that it can be used directly in a topology
+file). There are three complexes, with different charges: the empty BCETB, the
+complex with one K+ bound, and the complex with 2 K+ bound, and the files are
+named accordingly.

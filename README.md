@@ -13,7 +13,8 @@
 - `environment.yml` Defines the required Python packages using conda. It's a good idea to try to set specific versions of your
   dependencies as their behavior may change in the future.
   The environment is currently called `my_environment` and you'll likely want to rename it to something less generic.
-
+- `free_energy.py` This contains the code used for generating the free energy landscape in the PCA analysis.
+- `notebook.ipynb` This is the Jupyter Notebook, containing all the data analyses used for generating the published figures.  
 ## Requirements
 
 To run the Notebooks online, click on the _Launch Binder_ logo above. Alternatively, if you want to run on your own computer,
