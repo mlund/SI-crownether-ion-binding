@@ -1,34 +1,63 @@
 {
-    "title": "Electronic Notebook: Some title...",
-    "description": "This repository contains electronic notebooks (Jupyter) for reproducing the simulation results presented in ...",
+    "title": "Electronic Notebook: Counterintuitive Electrostatics upon Metal Ion Coordination to a Receptor with Two Homotopic Binding Sites",
+    "description": "This repository contains electronic notebooks (Jupyter) for reproducing the simulation results in the research work titled above",
     "creators": [
+        {
+            "name": "Vidar Aspelin",
+            "affiliation": "Division of Theoretical Chemistry, Department of Chemistry, Lund University, Sweden",
+            "orcid": "0000-0002-6888-1591"
+        },
+        {
+            "name": "Anna Lidskog",
+            "affiliation": "Center for Analysis and Synthesis (CAS), Department of Chemistry, Lund University",
+            "orcid": "0000-0001-6731-7684"
+        },        
+        {
+            "name": "Carlos Solano Arribas",
+            "affiliation": "Center for Analysis and Synthesis (CAS), Department of Chemistry, Lund University"
+        },
+        {
+            "name": "Stefan Hervø-Hansen",
+            "affiliation": "Division of Theoretical Chemistry, Department of Chemistry, Lund University, Sweden",
+            "orcid": "0000-0002-9629-9195"
+        },
+        {
+            "name": "Björn Stenqvist",
+            "affiliation": "Division of Physical Chemistry, Department of Chemistry, Lund University, Sweden",
+            "orcid": "0000-0002-9099-0663"
+        },
+        {
+            "name": "Richard Chudoba",
+            "affiliation": "Division of Physical Chemistry, Department of Chemistry, Lund University, Sweden",
+            "orcid": "0000-0002-8064-0387"
+        },
+        {
+            "name": "Kenneth Wärnmark",
+            "affiliation": "Center for Analysis and Synthesis (CAS), Department of Chemistry, Lund University",
+            "orcid": "0000-0002-9022-3165"
+        },
         {
             "name": "Mikael Lund",
             "affiliation": "Division of Theoretical Chemistry, Department of Chemistry, Lund University, Sweden",
             "orcid": "0000-0001-8178-8175"
         }
     ],
-    "contributors": [
-        {
-            "name": "Alfons Åberg",
-            "orcid": "0000-0000-0000-0000",
-            "type": "Researcher",
-            "affiliation": "Department of ..."
-        }
-    ],
     "keywords": [
         "reproducible science",
-        "electronic notebooks"
+        "electronic notebooks",
+        "theoretical chemistry",
+        "molecular dynamics simulation",
+        "ion binding thermodynamics"
     ],
     "related_identifiers": [
         {
             "scheme": "url",
-            "identifier": "https://github.com/mlund/template-for-supporting-information",
+            "identifier": "https://github.com/mlund/SI-crownether-ion-binding",
             "relation": "isSupplementTo"
         },
         {
             "scheme": "doi",
-            "identifier": "10.1021/jacs.1c01925",
+            "identifier": "10.1021/jacs.1c08507",
             "relation": "isSupplementTo"
         }
     ],
