@@ -1,0 +1,49 @@
+# This file was created Wed Nov 10 14:39:48 2021
+# Created by:
+#                        :-) GROMACS - gmx bar, 2019 (-:
+# 
+# Executable:   /sw/easybuild/software/MPI/GCC/7.3.0-2.30/OpenMPI/3.1.1/GROMACS/2019/bin/gmx
+# Data prefix:  /sw/easybuild/software/MPI/GCC/7.3.0-2.30/OpenMPI/3.1.1/GROMACS/2019
+# Working dir:  /lunarc/nobackup/projects/snic2020-6-15/vidar/bcetb/wCounterIons/oplsaaCharges/REMD/const_V/6Temperatures/second/k1_3500_k2_3500/50ns/KI
+# Command line:
+#   gmx bar -f lambda_0/Production_MD/310K/dhdl.xvg lambda_10/Production_MD/310K/dhdl.xvg lambda_11/Production_MD/310K/dhdl.xvg lambda_12/Production_MD/310K/dhdl.xvg lambda_13/Production_MD/310K/dhdl.xvg lambda_14/Production_MD/310K/dhdl.xvg lambda_15/Production_MD/310K/dhdl.xvg lambda_16/Production_MD/310K/dhdl.xvg lambda_17/Production_MD/310K/dhdl.xvg lambda_18/Production_MD/310K/dhdl.xvg lambda_19/Production_MD/310K/dhdl.xvg lambda_1/Production_MD/310K/dhdl.xvg lambda_20/Production_MD/310K/dhdl.xvg lambda_21/Production_MD/310K/dhdl.xvg lambda_22/Production_MD/310K/dhdl.xvg lambda_23/Production_MD/310K/dhdl.xvg lambda_24/Production_MD/310K/dhdl.xvg lambda_25/Production_MD/310K/dhdl.xvg lambda_26/Production_MD/310K/dhdl.xvg lambda_27/Production_MD/310K/dhdl.xvg lambda_28/Production_MD/310K/dhdl.xvg lambda_29/Production_MD/310K/dhdl.xvg lambda_2/Production_MD/310K/dhdl.xvg lambda_30/Production_MD/310K/dhdl.xvg lambda_31/Production_MD/310K/dhdl.xvg lambda_32/Production_MD/310K/dhdl.xvg lambda_3/Production_MD/310K/dhdl.xvg lambda_4/Production_MD/310K/dhdl.xvg lambda_5/Production_MD/310K/dhdl.xvg lambda_6/Production_MD/310K/dhdl.xvg lambda_7/Production_MD/310K/dhdl.xvg lambda_8/Production_MD/310K/dhdl.xvg lambda_9/Production_MD/310K/dhdl.xvg -b 30000 -e 32500 -nbmin 1 -nbmax 1 -o dG_13_310K.xvg
+# gmx bar is part of G R O M A C S:
+#
+# GROningen Mixture of Alchemy and Childrens' Stories
+#
+@    title "Free energy differences"
+@    xaxis  label "\xl\f{}"
+@    yaxis  label "\xD\f{}G (kT)"
+@TYPE xydy
+ 0.500 -7.71   inf
+ 1.500 -6.93   inf
+ 2.500 -8.04  -nan
+ 3.500 -8.96  -nan
+ 4.500 -9.66  -nan
+ 5.500 -13.50   inf
+ 6.500 -13.89   inf
+ 7.500 -14.08  -nan
+ 8.500 -14.09  -nan
+ 9.500 -13.95  -nan
+10.500 -13.66   inf
+11.500 -13.12  -nan
+12.500 -12.33  -nan
+13.500 -11.27   inf
+14.500 -9.78  -nan
+15.500 -7.65   inf
+16.500 -3.87  -nan
+17.500 -2.06  -nan
+18.500 -0.26  -nan
+19.500  0.78  -nan
+20.500  1.85  -nan
+21.500  3.10  -nan
+22.500  3.37  -nan
+23.500  4.59   inf
+24.500 -2.92  -nan
+25.500 -4.45  -nan
+26.500 -7.96   inf
+27.500 -9.24  -nan
+28.500 -10.67  -nan
+29.500 -12.50  -nan
+30.500 -14.78  -nan
+31.500 -11.09   inf

@@ -1,0 +1,7 @@
+This directory contains all the parameters for the atomtypes used in the
+simulations (K+, Cl-, I-, SCN-, BCETB and SPC/E water).
+
+In the bottom of ffnonbonded.itp, the explicit cross-interactions between the atoms in SCN-
+and K+, and SCN- and water,  are given, in order to match the cross-interactions in the original
+paper where the SCN- force field was derived, using a different combination
+rule (Lorentz-Berthelot instead of geometric which was used here).   

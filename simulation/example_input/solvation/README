@@ -1,0 +1,20 @@
+This is an example directory used for simulation of KCl in SPC/E
+water, and the process of solvating a single ion pair (from a vacuum to
+bulk SPC/E water). This corresponds to the solvation free energy of
+potassium chloride at infinite dilution.   
+
+In solvated/solvated.top, the creation of an ion pair (K+ and Cl-) is
+specified. 
+
+In the MDP directory, the input files for all temperatures used the in replica
+exchange scheme and all lambdas later used in the free energy calculation are
+located. For example, MDP/NPT/310K/npt_16.mdp gives the input variables for
+the pressure equilibration at 310K using parameters on K+ and Cl- according to
+the lambda with index 16.   
+
+min.sh, nvt.sh, npt.sh, and prod.sh are the scripts for running the
+energy minimization, temperature equilibration, pressure equilibration, and
+production run, respectively. 
+
+aurora.sh provides an example of a slurm script for simulating at a computer
+cluster, and submit.sh is used for submitting several slurm jobs in sequence, lambda_0, lambda_1, ..., lambda_32, covering the whole creation of the ion pair.   
